@@ -1,6 +1,7 @@
 # Exploring Data with Python
-[Click here](https://youtu.be/ae-at42dkHU?si=wCrBMMnjaPCFkDyn) to watch the workshop
-The contents of this module were obtained from the Microsoft Learn Module: [Explore and Analyse Data with Python
+- [Click here](https://youtu.be/ae-at42dkHU?si=wCrBMMnjaPCFkDyn) to watch the workshop
+
+- The contents of this module were obtained from the Microsoft Learn Module: [Explore and Analyse Data with Python
 ](https://learn.microsoft.com/en-us/training/modules/explore-analyze-data-with-python?wt.mc_id=studentamb_206118)
 
 ---
